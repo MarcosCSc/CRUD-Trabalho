@@ -16,8 +16,8 @@ src/
 └─ view/         → AgendaView.java (tela principal)
 
 
-## Como o professor vai rodar (zero trabalho)
-1. Abrir o IntelliJ IDEA (ou Eclipse)
+## Como rodar
+1. Abrir o IntelliJ IDEA (ou Eclipse ou VS code)
 2. File → Open → selecionar essa pasta inteira
 3. Executar a classe `view.AgendaView`
 
